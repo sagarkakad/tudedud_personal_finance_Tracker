@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9fafb;
+  margin: 0;
+}
+table th, table td {
+  padding: 8px;
+}
